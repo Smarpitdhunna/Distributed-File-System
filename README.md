@@ -1,4 +1,4 @@
-# 📖 Distributed File System — COMP-8567
+# 📖 Distributed File System
 
 ## 📑 Table of Contents
 
